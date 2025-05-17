@@ -6,11 +6,11 @@ function Footer() {
         All Right Reserved By {" "}
         <a
           className="font-medium"
-          href="https://github.com/Abdulhaseebimran"
+          href="https://github.com/AmmarBinAli"
           target="_blank"
           rel="noreferrer noopener"
         >
-          Abdul Haseeb Imran
+          Ammar Bin Ali
         </a>{" "}
         with
         <span className="text-gradient font-medium"> Love</span> &
